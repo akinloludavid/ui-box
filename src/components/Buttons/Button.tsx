@@ -26,7 +26,6 @@ export const Button = ({
         secondary: 'rh-button--secondary',
         tertiary: 'rh-button--tertiary',
     }
-
     return (
         <button
             type='button'
